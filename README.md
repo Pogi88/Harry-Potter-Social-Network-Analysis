@@ -4,7 +4,7 @@
 
 This project involves an in-depth social network analysis of the characters in the Harry Potter universe. By constructing and analyzing a network graph, the project reveals insights into the relationships between characters across all seven books of the series. The analysis applies various network science techniques to uncover the most influential characters and the overall structure of the social network.
 
-**This project is strictly connected to the following project by shecodespython:**
+**This project is strictly connected to the following project by shecodespython: https://github.com/shecodespython/harry-potter-network-analysis**
 
 ## 🚀 Key Components:
 
